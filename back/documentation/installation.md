@@ -13,7 +13,7 @@
 ### 1 Clone the repository
 
 ```bash
-git clone git@github.com:helyahyaoui/product-trial-master.git .
+git clone git@github.com:helyahyaoui/AltenShopProducts.git .
 ```
 
 ### 2 Config environment file
